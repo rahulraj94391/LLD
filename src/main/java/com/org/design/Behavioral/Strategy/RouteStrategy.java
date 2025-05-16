@@ -1,4 +1,4 @@
-package com.org.DesignPatterns.Behavioral.Strategy;
+package com.org.design.Behavioral.Strategy;
 
 import java.awt.*;
 

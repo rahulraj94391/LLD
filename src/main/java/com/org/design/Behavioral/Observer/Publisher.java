@@ -1,4 +1,4 @@
-package com.org.DesignPatterns.Behavioral.Observer;
+package com.org.design.Behavioral.Observer;
 
 import java.util.HashSet;
 
