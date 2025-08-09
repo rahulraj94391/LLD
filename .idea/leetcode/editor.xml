@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[13]Roman to Integer.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[13]Roman to Integer.md" />
+              <option name="frontendQuestionId" value="leetcode.com13" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[13]Roman to Integer.java" />
+              <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[142]Linked List Cycle II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[142]Linked List Cycle II.md" />
+              <option name="frontendQuestionId" value="leetcode.com142" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[142]Linked List Cycle II.java" />
+              <option name="titleSlug" value="linked-list-cycle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[1614]Maximum Nesting Depth of the Parentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[1614]Maximum Nesting Depth of the Parentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.com1614" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[1614]Maximum Nesting Depth of the Parentheses.java" />
+              <option name="titleSlug" value="maximum-nesting-depth-of-the-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[19]Remove Nth Node From End of List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[19]Remove Nth Node From End of List.md" />
+              <option name="frontendQuestionId" value="leetcode.com19" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[19]Remove Nth Node From End of List.java" />
+              <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[234]Palindrome Linked List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[234]Palindrome Linked List.md" />
+              <option name="frontendQuestionId" value="leetcode.com234" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[234]Palindrome Linked List.java" />
+              <option name="titleSlug" value="palindrome-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[239]Sliding Window Maximum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[239]Sliding Window Maximum.md" />
+              <option name="frontendQuestionId" value="leetcode.com239" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[239]Sliding Window Maximum.java" />
+              <option name="titleSlug" value="sliding-window-maximum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[3363]Find the Maximum Number of Fruits Collected.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[3363]Find the Maximum Number of Fruits Collected.md" />
+              <option name="frontendQuestionId" value="leetcode.com3363" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[3363]Find the Maximum Number of Fruits Collected.java" />
+              <option name="titleSlug" value="find-the-maximum-number-of-fruits-collected" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[51]N-Queens.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[51]N-Queens.md" />
+              <option name="frontendQuestionId" value="leetcode.com51" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[51]N-Queens.java" />
+              <option name="titleSlug" value="n-queens" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[543]Diameter of Binary Tree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[543]Diameter of Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com543" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[543]Diameter of Binary Tree.java" />
+              <option name="titleSlug" value="diameter-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[5]Longest Palindromic Substring.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[5]Longest Palindromic Substring.md" />
+              <option name="frontendQuestionId" value="leetcode.com5" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[5]Longest Palindromic Substring.java" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[796]Rotate String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[796]Rotate String.md" />
+              <option name="frontendQuestionId" value="leetcode.com796" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[796]Rotate String.java" />
+              <option name="titleSlug" value="rotate-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[8]String to Integer (atoi).java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/doc/content/[8]String to Integer (atoi).md" />
+              <option name="frontendQuestionId" value="leetcode.com8" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/1x/2f22vt_9489dgnv69z9f3k2w7m9r8b/T/leetcode/editor/en/[8]String to Integer (atoi).java" />
+              <option name="titleSlug" value="string-to-integer-atoi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
