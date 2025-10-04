@@ -12,10 +12,13 @@ public class Directory implements Component {
     }
 
     @Override
-    public void ls() {
-        System.out.println("Dir - " + directoryName);
+    public void ls(int indentSpace) {
+        StringBuilder sb = new StringBuilder();
+        sb.repeat(" ", indentSpace);
+        sb.append("Dir - ").append(directoryName);
+        System.out.println(sb);
         for (Component object : objects) {
-            object.ls();
+            object.ls(indentSpace + 4);
         }
     }
 

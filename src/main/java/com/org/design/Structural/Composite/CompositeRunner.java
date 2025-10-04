@@ -35,11 +35,13 @@ public class CompositeRunner {
         Directory oldPhotos = new Directory("Old photos");
         File oldPic1 = new File("Old pic 1");
         File oldPic2 = new File("Old pic 2");
-        oldPhotos.addFiles(oldPic1, oldPic2);
+        File oldPic3 = new File("Old pic 3");
+        oldPhotos.addFiles(oldPic1, oldPic2, oldPic3);
 
-        studyMaterial.addFiles(oldPhotos);
+        Directory latestImages = new Directory("Latest images");
+        studyMaterial.addFiles(oldPhotos, latestImages);
 
-        studyMaterial.ls();
+        studyMaterial.ls(0);
     }
 }
 

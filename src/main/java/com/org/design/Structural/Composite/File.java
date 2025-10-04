@@ -9,7 +9,10 @@ public class File implements Component {
     }
 
     @Override
-    public void ls() {
-        System.out.println("File - " + fileName);
+    public void ls(int indentSpace) {
+        StringBuilder sb = new StringBuilder();
+        sb.repeat(" ", indentSpace);
+        sb.append("File - ").append(fileName);
+        System.out.println(sb);
     }
 }

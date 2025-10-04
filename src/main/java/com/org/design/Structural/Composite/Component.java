@@ -1,5 +1,5 @@
 package com.org.design.Structural.Composite;
 
 public interface Component {
-    void ls();
+    void ls(int indentSpace);
 }
