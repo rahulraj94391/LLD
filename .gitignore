@@ -8,6 +8,11 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/codeInsightSettings.xml
+.idea/copilot*.xml
+.idea/copilotDiffState.xml
+.idea/deviceManager.xml
+.idea/dictionaries/
 *.iws
 *.iml
 *.ipr
